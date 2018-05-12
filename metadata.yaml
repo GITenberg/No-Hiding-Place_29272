@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '33589'
     url: http://www.gutenberg.org/2009/agents/33589
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29272#No-Hiding-Place
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-06-29'
 gutenberg_type: Text
